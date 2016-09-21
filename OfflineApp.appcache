@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+CACHE:
+nsb/fastclick.js
+Assets/Login/imagen.png
+Assets/Login/Ingresar_on.png
+Detalles pantallas/login/version.png
+nsb/jquery.modal.css
+Detalles pantallas/login/titulo.png
+nsb/images/ajax-loader.gif
+nsb/close.png
+nsb/hfunc.js
+nsb/images/LauncherIcon57.png
+nsb/jquery.mobile.js
+nsb/jquery.mobile.css
+nsb/images/196.png
+nsb/jquery.js
+Assets/Login/logo_t2.png
+nsb/nsbstyle.css
+nsb/jquery.modal.min.js
+
+NETWORK:
+*
+
+# buildtime: 1474429547.95
